@@ -1,54 +1,53 @@
 # Hi, I'm Yaya Soumah
 
-**Remote Backend Developer** | Node.js, TypeScript, Express  
-Based in Qingdao, China | Open to global remote opportunities
+**Data Engineer** (backend developer turned data engineer) | Python, SQL, PostgreSQL, Airflow
+Based in Qingdao, China | Open to relocation and remote roles
+
+---
+
+## What I'm building now
+
+**[AGPP Data Platform](https://github.com/yaya-soumah/agpp-data-platform)**: a production-style
+data platform. Three pipelines (supplier products, customer orders, stock levels) load one
+PostgreSQL warehouse, Airflow runs them daily, and configurable data-quality checks measure
+the result. Idempotent loads, strict typing, enforced architecture boundaries, 20 architecture
+decision records and a four-job CI pipeline.
 
 ---
 
 ## Tech Stack
 
-- **Languages**: TypeScript, JavaScript, SQL, HTML5, CSS3
-- **Frameworks & Tools**: Node.js, Express, Sequelize, Jest, Supertest, BullMQ
-- **Databases**: PostgreSQL, SQLite, Redis
-- **Other**: Swagger/OpenAPI, JWT Auth, Docker, GitHub Actions, Clean Architecture
+- **Data engineering**: Python, SQL, PostgreSQL, Apache Airflow, Docker, dimensional modeling,
+  data quality, pytest, GitHub Actions
+- **Backend (earlier work)**: TypeScript, Node.js, Express, Sequelize, Redis, BullMQ, JWT,
+  Swagger/OpenAPI, Clean Architecture
 
 ---
 
-## Featured Projects
+## Earlier backend projects
 
-| Project                                                                     | Description                                                                 | Stack                                 | Demo                                                   |
-| --------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------- | ------------------------------------------------------ |
-| [Blog API](https://github.com/yaya-soumah/blog-api)                         | Post & comment system with role-based access and notifications.             | Node.js, TypeScript, Sequelize, Redis | [Live](https://blog-api-u0gb.onrender.com/api/v1)      |
-| [Job Board API](https://github.com/yaya-soumah/job-board-api)               | Multi-role job board for users, recruiters, and admins.                     | Node.js, TypeScript, PostgreSQL       | [Live](https://job-board-api-wxmn.onrender.com/api/v1) |
-| [Mini Social API](https://github.com/yaya-soumah/mini-social-api)           | Twitter-style API with posts, likes, replies, and background notifications. | Node.js, Redis, BullMQ                | [Live](https://mini-social-api.onrender.com/api/v1)    |
-| [Bookmark Manager API](https://github.com/yaya-soumah/bookmark-manager-api) | Taggable, filterable bookmark CRUD API.                                     | Node.js, SQLite                       | [Live](https://bookmark-manager-api.onrender.com)      |
+| Project                                                      | Description                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Blog API](https://github.com/yaya-soumah/blog-api)          | Posts and comments with role-based access and notifications ([live](https://blog-api-u0gb.onrender.com/api/v1)) |
+| [Job Board API](https://github.com/yaya-soumah/job-board-api) | Multi-role job board for users, recruiters and admins ([live](https://job-board-api-wxmn.onrender.com/api/v1)) |
+| [Mini Social API](https://github.com/yaya-soumah/mini-social-api) | Posts, likes, replies and background notifications with Redis and BullMQ ([live](https://mini-social-api.onrender.com/api/v1)) |
+| [Bookmark Manager API](https://github.com/yaya-soumah/bookmark-manager-api) | Taggable, filterable bookmark API ([live](https://bookmark-manager-api.onrender.com)) |
 
-> All projects follow TDD with Jest/Supertest and Swagger documentation. Test coverage ranges from **85–96%**.
-
----
-
-## Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/yaya-soumah-11b75b1b9)
-- [GitHub](https://github.com/yaya-soumah)
-- yaya-soumah@outlook.com
+All of them were built test-first with 85 to 96% coverage.
 
 ---
 
-## I'm Looking For
+## I'm looking for
 
-> Remote mid-level backend developer roles  
-> Open to collaborating with international, async teams  
-> Freelance contracts or full-time positions
-
----
+Data Engineer roles (also analytics engineering and data platform work), full-time or
+contract, remote or with relocation.
 
 ## Background
 
 - MSc in Modern Control Systems
-- Transitioned to backend through deep self-learning and applied projects
-- Built robust APIs using clean architecture, background jobs, caching, RBAC, and more
+- Backend developer building tested, documented APIs; now focused on reliable data pipelines
 
----
+## Let's connect
 
-_Thanks for visiting my profile!_
+- [LinkedIn](https://www.linkedin.com/in/yaya-soumah-11b75b1b9)
+- yaya-soumah@outlook.com
